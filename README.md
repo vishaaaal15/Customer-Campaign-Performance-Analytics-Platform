@@ -82,7 +82,7 @@ Executive Insights & Recommendations
 
 ## Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview]![Executive Overview](Images/Executive_Dashboard_Screenshot_PowerBI.png)
 
 ### Key Insights
 
