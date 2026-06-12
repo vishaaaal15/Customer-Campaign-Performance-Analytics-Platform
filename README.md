@@ -1,6 +1,6 @@
 # Customer Campaign Performance Analytics Platform
 
-![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview](Dashboard_Executive_Dashboard_Screenshot_PowerBI.png)
 
 ## SQL • Power BI • Python • Excel • MySQL • Tableau
 
