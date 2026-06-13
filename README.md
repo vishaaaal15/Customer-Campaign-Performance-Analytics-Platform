@@ -1,6 +1,7 @@
 # Customer Campaign Performance Analytics Platform
 
 ![Executive Overview](Images/Executive_Dashboard_Screenshot_PowerBI.png)
+![Executive Overview](Images/Executive_Dashboard_Screenshot_Tableau.png)
 
 ## SQL • Power BI • Python • Excel • MySQL • Tableau
 
@@ -83,6 +84,7 @@ Executive Insights & Recommendations
 ## Executive Overview
 
 ![Executive Overview]![Executive Overview](Images/Executive_Dashboard_Screenshot_PowerBI.png)
+![Executive Overview](Images/Executive_Dashboard_Screenshot_Tableau.png)
 
 ### Key Insights
 
